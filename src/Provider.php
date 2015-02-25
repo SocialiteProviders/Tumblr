@@ -18,11 +18,8 @@ class Provider extends AbstractProvider
         $user = $this->server->getUserDetails($token = $this->getToken());
 
         return (new User())->setRaw($user->extra)->map([
-             'id'       => null,
-             'nickname' => $user->nickname,
-             'name'     => null,
-             'email'    => null,
-             'avatar'   => null,
+            'id' => null, 'nickname' => $user->nickname, 'name' => null,
+            'email' => null, 'avatar' => null,
         ])->setToken($token->getIdentifier(), $token->getSecret());
     }
 }
