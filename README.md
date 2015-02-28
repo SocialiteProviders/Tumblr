@@ -1,5 +1,11 @@
 # Tumblr OAuth1 Provider for Laravel Socialite
 
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/Tumblr.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/Tumblr/?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/tumblr.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/tumblr)
+[![Total Downloads](https://img.shields.io/packagist/dt/socialiteproviders/tumblr.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/tumblr)
+[![Latest Unstable Version](https://img.shields.io/packagist/vpre/socialiteproviders/tumblr.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/tumblr)
+[![License](https://img.shields.io/packagist/l/socialiteproviders/tumblr.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/tumblr)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
