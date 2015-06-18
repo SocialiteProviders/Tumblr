@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\Tumblr;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
